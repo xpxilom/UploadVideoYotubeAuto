@@ -1,0 +1,13 @@
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\bin\Release\Upload Video.exe.config
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\bin\Release\Upload Video.exe
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\bin\Release\Upload Video.pdb
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\bin\Release\DotNetBrowser.Chromium.dll
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\bin\Release\DotNetBrowser.dll
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\obj\Release\Upload Video.csprojAssemblyReference.cache
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\obj\Release\Upload_Video.Form1.resources
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\obj\Release\Upload_Video.Properties.Resources.resources
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\obj\Release\Upload Video.csproj.GenerateResource.cache
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\obj\Release\Upload Video.csproj.CoreCompileInputs.cache
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\obj\Release\Upload Video.csproj.CopyComplete
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\obj\Release\Upload Video.exe
+C:\Users\Rhoger\source\repos\Upload Video\Upload Video\obj\Release\Upload Video.pdb
