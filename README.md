@@ -1,3 +1,6 @@
+[![ license](https://img.shields.io/badge/license-AGPL-blue.svg)]( )
+
+
 # UploadVideoYotubeAuto
 Upload videos to youtube automatically without using the api with c # and DotNetBrowser
 The bot will take the video from the folder and upload it in its respective channel.
