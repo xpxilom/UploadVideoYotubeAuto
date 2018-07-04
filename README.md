@@ -1,4 +1,4 @@
-[![ license](https://img.shields.io/badge/license-AGPL-blue.svg)]( )
+[![ license]()](GPL)
 
 
 # UploadVideoYotubeAuto
@@ -15,7 +15,7 @@ Then upload the video.
 
 ## Third Party Dependencies
 
-UploadVideoYotubeAuto uses DotNetBrowser http://www.teamdev.com/dotnetbrowser, which is a proprietary software. The use of DotNetBrowser is governed by DotNetBrowser Product Licence Agreement http://www.teamdev.com/jxbrowser-licence-agreement. If you would like to use DotNetBrowser in your development, please contact TeamDev.
+UploadVideoYotubeAuto uses DotNetBrowser http://www.teamdev.com/dotnetbrowser, which is a proprietary software. The use of DotNetBrowser is governed by DotNetBrowser Product Licence Agreement https://www.teamdev.com/dotnetbrowser/licence-agreement If you would like to use DotNetBrowser in your development, please contact TeamDev.
 
 
 
