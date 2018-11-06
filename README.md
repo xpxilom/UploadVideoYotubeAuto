@@ -11,10 +11,7 @@ The bot will change channel and go to the channel "Crochet"
 Then upload the video.
 
 
-
-## Third Party Dependencies
-
-UploadVideoYotubeAuto uses DotNetBrowser http://www.teamdev.com/dotnetbrowser, which is a proprietary software. The use of DotNetBrowser is governed by DotNetBrowser Product Licence Agreement https://www.teamdev.com/dotnetbrowser/licence-agreement If you would like to use DotNetBrowser in your development, please contact TeamDev.
+ 
 
 
 
